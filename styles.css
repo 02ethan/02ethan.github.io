@@ -23,3 +23,15 @@
   background-color: green;
   color: white;
 }
+
+.elemets {
+  padding: 12px;
+  background-color: white;
+  box-shadow: 4px 4px 2px gray;
+}
+
+.elements p {
+  background-color: white;
+  border-left: 3px solid blue;
+  font-family: "Courier New", sans-serif;
+}
